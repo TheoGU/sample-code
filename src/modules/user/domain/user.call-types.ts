@@ -1,3 +1,3 @@
 export enum UserCallTypes {
-	fetchMyUser = "FetchMyUser",
+  fetchMyUser = "FetchMyUser",
 }

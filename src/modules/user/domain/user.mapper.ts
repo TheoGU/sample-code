@@ -1,1 +1,1 @@
-export const userMapper = {}
+export const userMapper = {};

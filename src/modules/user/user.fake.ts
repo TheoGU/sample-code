@@ -1,8 +1,9 @@
-import { User } from "@/types/user"
+import { User } from "@/types/user";
+
 export const fakeUser: User = {
-	id: 1,
-	email: "theo@eguth.io",
-	email_verified: true,
-	firstname: "Theo",
-	lastname: "Eguth",
-}
+  id: 1,
+  email: "theo@eguth.io",
+  email_verified: true,
+  firstname: "Theo",
+  lastname: "Eguth",
+};

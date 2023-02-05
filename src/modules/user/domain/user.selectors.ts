@@ -1,2 +1,2 @@
 export const isLoadingToGetLoggedInUser = ({ user }): boolean =>
-	!!user.requestingFetchMyUser
+  !!user.requestingFetchMyUser;
